@@ -1,0 +1,8 @@
+export const ADD_VENUE_TO_BOOKINGLIST='addVenueToBookingList';
+export const REMOVE_VENUE_FROM_BOOKINGLIST='removeVenueFromBookingList';
+
+export const ADD_PHOTOGRAPHER_TO_BOOKINGLIST='addPhotographerToBookingList';
+export const REMOVE_PHOTOGRAPHER_FROM_BOOKINGLIST='removePhotographerFromBookingList';
+
+export const ADD_DECORATOR_TO_BOOKINGLIST='addDecoratorToBookingList';
+export const REMOVE_DECORATOR_FROM_BOOKINGLIST='removeDecoratorFromBookingList';
